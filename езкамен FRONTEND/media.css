@@ -1,0 +1,10 @@
+
+@media only screen and (max-width: 992px)  {
+    .sidenav {
+      width: 750px;
+    }
+    .image1 {
+        height: 50px;
+        width: 100px;
+      }
+  }
